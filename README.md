@@ -1,13 +1,4 @@
-An opiniated template repository for rust single crate projects
-
-Integrations:
-1. Cargo
-2. Branch Name Validation
-3. Commit Title Validation using [commitlint](https://github.com/conventional-changelog/commitlint)
-4. Rust Fmt settings
-5. CI setup for testing before PR merge
-6. Commit Template
-7. Run RustFMT pre-commit
+A repo for custom reusable proc macros
 
 ---
 ## Initial Setup ##
